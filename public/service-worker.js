@@ -3,11 +3,11 @@ console.log("Service worker reporting for duty!")
 const FILES_TO_CACHE = [
     'icons/icon-192x192.png',
     'icons/icon-512x512.png',
-    'indexedDB.js',
+    'db.js',
     'index.html',
     '/',
     'index.js',
-    '/manifest.webmanifest',
+    '/manifest.json',
     'styles.css'    
 ];
 
