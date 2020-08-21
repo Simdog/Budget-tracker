@@ -1,5 +1,5 @@
 let db;
-const request = window.indexedDB.open("budget", 1);
+const request = window.db.open("budget", 1);
 
 
 
